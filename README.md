@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/sqliattack-logo.png" alt="sqlifinder" width="200px"></a>
+  <img src="images/sqliattack-logo.png" alt="Sqli Attack" width="200px"></a>
   <br>
   <p align="center">
   <a href="https://t.me/tengkorakcybercrewz/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=White"></a>
@@ -13,7 +13,7 @@
   <a href="#Features">Features</a> •
   <a href="#Penggunaan">Install</a> •
   <a href="#Cara-guna">Usage</a> •
-  <a href="http://tengkorakcyber.org/dork.txt">Dork</a> •
+  <a href="http://tengkorakcyber.org/dork.txt">Dork</a> 
 </p>
 
 ---
