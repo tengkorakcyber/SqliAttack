@@ -2,7 +2,7 @@
   <img src="images/sqliattack-logo.png" alt="Sqli Attack" width="200px"></a>
   <br>
    <img src="https://img.shields.io/badge/language-python-blue.svg"><p>
-   ![Python 3](https://img.shields.io/badge/python-3-blue.svg) 
+   <img src="https://img.shields.io/badge/python-3-blue.svg">
    <img src="https://img.shields.io/badge/Status-Beta-blue"> 
 </h1>
 
