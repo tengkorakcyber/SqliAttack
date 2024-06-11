@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#ciri-ciri">Features</a> •
   <a href="#Penggunaan">Install</a> •
-  <a href="#Menjalankan Serangan Sqli Attack">Usage</a> •
+  <a href="#Cara-guna">Usage</a> •
 </p>
 
 ---
@@ -19,7 +19,7 @@
 Sqli Attack ialah alat dengan fungsi mengesan kelemahan suntikan sql berasaskan GET dalam aplikasi web menggunakan waybackurls, perangkak web dan muatan suntikan sql.
 
 
-# ciri-ciri
+# Features
 
 <h1 align="left">
   <img src="static/sqlifinder-run.png" alt="sqlifinder" width="700px"></a>
@@ -64,7 +64,7 @@ Untuk memasang jalankan arahan ini:
 
 
 
-# Menjalankan Serangan Sqli Attack
+# Cara-guna
 
 Untuk menjalankan alat pada sasaran, hanya gunakan arahan berikut.
 ```sh
