@@ -25,7 +25,7 @@ Sqli Attack ialah alat dengan fungsi mengesan kelemahan suntikan sql berasaskan 
 # Features
 
 <h1 align="left">
-  <img src="static/sqlifinder-run.png" alt="sqlifinder" width="700px"></a>
+  <img src="static/sqlifinder-run.png" alt="Sqli Attack" width="700px"></a>
   <br>
 </h1>
 
