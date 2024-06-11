@@ -13,6 +13,7 @@
   <a href="#Features">Features</a> •
   <a href="#Penggunaan">Install</a> •
   <a href="#Cara-guna">Usage</a> •
+  <a href="http://tengkorakcyber.org/dork.txt">Dork</a> •
 </p>
 
 ---
