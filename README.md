@@ -8,7 +8,7 @@
 
       
 <p align="center">
-  <a href="#ciri-ciri">Features</a> •
+  <a href="#Features">Features</a> •
   <a href="#Penggunaan">Install</a> •
   <a href="#Cara-guna">Usage</a> •
 </p>
