@@ -22,7 +22,7 @@
 
 Sqli Attack ialah alat dengan fungsi mengesan kelemahan suntikan sql berasaskan GET dalam aplikasi web menggunakan waybackurls, perangkak web dan muatan suntikan sql.
 
-# About
+# Pengenalan
 Secara amnya, penggodam menggunakan arahan atau pertanyaan SQL dengan alat tertentu untuk mengakses pangkalan data. Suntikan kod yang dijalankan membolehkan mereka masuk tanpa proses pengesahan. Setelah berjaya, penggodam bebas untuk menambah, memadam dan menukar data di tapak web.
 
 # Screenshot
