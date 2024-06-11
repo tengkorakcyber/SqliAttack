@@ -10,7 +10,7 @@
 
       
 <p align="center">
-  <a href="#Features">Screenshot</a> •
+  <a href="#Screenshot">Screenshot</a> •
   <a href="#Penggunaan">Install</a> •
   <a href="#Cara-guna">Usage</a> •
   <a href="http://tengkorakcyber.org/dork.txt">Dork</a> 
