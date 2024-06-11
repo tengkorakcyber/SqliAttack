@@ -1,8 +1,7 @@
 <h1 align="center">
   <img src="images/sqliattack-logo.png" alt="Sqli Attack" width="200px"></a>
   <br>
-  <p align="center">
-  <a href="https://t.me/tengkorakcybercrewz/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=White"></a>
+   <img src="https://img.shields.io/badge/language-python-blue.svg">
 </h1>
 
 <h4 align="center">Pengimbas SQL Injection dibuat dengan python.</h4>
@@ -10,7 +9,7 @@
 
       
 <p align="center">
-  <a href="#Features">Features</a> •
+  <a href="#Features">Screenshot</a> •
   <a href="#Penggunaan">Install</a> •
   <a href="#Cara-guna">Usage</a> •
   <a href="http://tengkorakcyber.org/dork.txt">Dork</a> 
@@ -22,7 +21,7 @@
 Sqli Attack ialah alat dengan fungsi mengesan kelemahan suntikan sql berasaskan GET dalam aplikasi web menggunakan waybackurls, perangkak web dan muatan suntikan sql.
 
 
-# Features
+# Screenshot
 
 <h1 align="left">
   <img src="static/sqlifinder-run.png" alt="Sqli Attack" width="700px"></a>
