@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/badge/language-python-blue.svg"><p>
    <img src="https://img.shields.io/badge/python-3-blue.svg">
    <img src="https://img.shields.io/badge/Status-Beta-blue"> 
-   <img src="https://img.shields.io/badge/telegram-https://t.me/tengkorakcybercrewz-blue.svg">
+   <img src="https://img.shields.io/badge/telegram-https://t.me/tengkorakcybercrewz-yellow.svg">
 </h1>
 
 <h4 align="center">Pengimbas SQL Injection dibuat dengan python.</h4>
