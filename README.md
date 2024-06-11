@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="images/sqlifinder-logo.png" alt="sqlifinder" width="200px"></a>
+  <img src="images/sqliattack-logo.png" alt="sqlifinder" width="200px"></a>
   <br>
+  <p align="center">
+  <a href="https://t.me/tengkorakcybercrewz/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=White"></a>
 </h1>
 
 <h4 align="center">Pengimbas SQL Injection dibuat dengan python.</h4>
