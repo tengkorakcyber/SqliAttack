@@ -8,9 +8,9 @@
 
       
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Install</a> •
-  <a href="#running-sqlifinder">Usage</a> •
+  <a href="#ciri-ciri">Features</a> •
+  <a href="#Penggunaan">Install</a> •
+  <a href="#Menjalankan Serangan Sqli Attack">Usage</a> •
 </p>
 
 ---
@@ -19,7 +19,7 @@
 Sqli Attack ialah alat dengan fungsi mengesan kelemahan suntikan sql berasaskan GET dalam aplikasi web menggunakan waybackurls, perangkak web dan muatan suntikan sql.
 
 
-# Features
+# ciri-ciri
 
 <h1 align="left">
   <img src="static/sqlifinder-run.png" alt="sqlifinder" width="700px"></a>
