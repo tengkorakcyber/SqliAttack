@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="images/sqliattack-logo.png" alt="Sqli Attack" width="200px"></a>
   <br>
-   <img src="https://img.shields.io/badge/language-python-blue.svg">
+   <img src="https://img.shields.io/badge/language-python-blue.svg"><p>
+   <img src="https://img.shields.io/badge/Status-Beta-blue"> 
 </h1>
 
 <h4 align="center">Pengimbas SQL Injection dibuat dengan python.</h4>
