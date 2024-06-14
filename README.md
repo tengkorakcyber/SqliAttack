@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="images/sqliattack-logo.png" alt="Sqli Attack" width="200px"></a>
-  </h1>
+  </h1></center>
 <div align="center">
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E94C&center=true&vCenter=true&width=435&lines=Sqli+Attack; Created+By+Jaring" alt="Typing SVG" /></a></h1>
 </div>
@@ -10,7 +10,7 @@
    <img src="https://img.shields.io/badge/Status-Beta-blue"> 
    <img src="https://img.shields.io/badge/telegram-https://t.me/tengkorakcybercrewz-yellow.svg">
    <img src="https://img.shields.io/badge/website-https://tengkorakcyber.org-yellow.svg">
-</h1>
+</h1></center>
 
 <h4 align="center">Pengimbas SQL Injection dibuat dengan python.</h4>
 
