@@ -5,7 +5,6 @@
 <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E94C&center=true&vCenter=true&width=435&lines=Sqli+Attack; Created+By+Jaring" alt="Typing SVG" /></a></h3>
 </div>
 
-  <br>
    <img src="https://img.shields.io/badge/language-python-blue.svg"><p>
    <img src="https://img.shields.io/badge/python-3-blue.svg">
    <img src="https://img.shields.io/badge/Status-Beta-blue"> 
@@ -15,8 +14,6 @@
 
 <h4 align="center">Pengimbas SQL Injection dibuat dengan python.</h4>
 
-
-      
 <p align="center">
   <a href="#Pengenalan">About</a> •
   <a href="#Screenshot">Screenshot</a> •
