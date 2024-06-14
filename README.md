@@ -67,7 +67,7 @@ Untuk memasang jalankan arahan ini:
 ▶ git clone https://github.com/tengkorakcyber/SqliAttack.git
 ```
 ```sh
-▶ cd sqli-attack
+▶ cd SqliAttack
 ▶ pip3 install -r requirements.txt
 ```
 
