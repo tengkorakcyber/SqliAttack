@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="images/sqliattack-logo.png" alt="Sqli Attack" width="200px"></a>
-  
+  </h1>
 <div align="center">
-<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E94C&center=true&vCenter=true&width=435&lines=Sqli+Attack; Created+By+Jaring" alt="Typing SVG" /></a></h3>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E94C&center=true&vCenter=true&width=435&lines=Sqli+Attack; Created+By+Jaring" alt="Typing SVG" /></a></h1>
 </div>
-
+<h1>
    <img src="https://img.shields.io/badge/language-python-blue.svg"><p>
    <img src="https://img.shields.io/badge/python-3-blue.svg">
    <img src="https://img.shields.io/badge/Status-Beta-blue"> 
