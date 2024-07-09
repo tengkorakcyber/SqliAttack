@@ -33,7 +33,7 @@ Secara amnya, penggodam menggunakan arahan atau pertanyaan SQL dengan alat terte
 # Screenshot
 
 <h1 align="left">
-  <img src="static/sqlifinder-run.png" alt="Sqli Attack" width="700px"></a>
+  <img src="images/sqliattackss.jpg" alt="Sqli Attack" width="700px"></a>
   <br>
 </h1>
 
