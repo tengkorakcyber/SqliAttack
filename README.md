@@ -93,5 +93,5 @@ Perintah `-s` boleh digunakan untuk menguji suntikan sql dalam subdomain sasaran
 
 # License
 
-Sqli Attack is Recode By [TengkorakCyberCrew](https://tengkorakcyber.org).
+Sqli Attack is Recode By [TengkorakCyberCrew](https://t.me/tengkorakcybercrewz).
 
